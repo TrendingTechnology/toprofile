@@ -1,0 +1,2 @@
+/Library/ColorSync/Profiles/Displays/LG HDR 4K-1E6E6CBA-3BC9-4271-993A-8C19340DBF79.icc
+/System/Library/Colorsync/Profiles/sRGB Profile.icc
