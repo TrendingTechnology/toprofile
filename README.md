@@ -28,7 +28,7 @@ Before using the program, you must first specify what color profiles to use by g
 <pre>
 > toprofile -config
 > Configure color profile paths? (y/n) <b>y</b>
-> Abs. path of viewing profile? <b>/Library/ColorSync/Profiles/Displays/LG HDR 4K-1E6E6CBA-3BC9-4271-993A-8C19340DBF79.icc</b>
+> Abs. path of viewing profile? <b>/Library/ColorSync/Profiles/Displays/LG HDR 4K.icc</b>
 > Abs. path of display profile? <b>/System/Library/Colorsync/Profiles/sRGB Profile.icc</b>
 > Configuration successfully saved
 </pre>
